@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_nav_graph"
+    app:startDestination="@id/btnHome">
+
+    <fragment
+        android:id="@+id/btnHome"
+        android:name="com.example.wonderfinder.Fragments.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/btnFavoritePlaces"
+        android:name="com.example.wonderfinder.Fragments.FavoritePlacesFragment"
+        android:label="fragment_favorite_places"
+        tools:layout="@layout/fragment_favorite_places" />
+    <fragment
+        android:id="@+id/btnSettings"
+        android:name="com.example.wonderfinder.Fragments.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

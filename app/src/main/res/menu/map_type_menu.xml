@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnNormal"
+        android:title="@string/defaul" />
+    <item
+        android:id="@+id/btnSatellite"
+        android:title="@string/satellite" />
+    <item
+        android:id="@+id/btnTerrain"
+        android:title="@string/ter" />
+</menu>

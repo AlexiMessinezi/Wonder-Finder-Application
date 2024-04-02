@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "664463569269",
+    "project_id": "wonder-finder-app",
+    "storage_bucket": "wonder-finder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664463569269:android:761d1dab714916c3cda33c",
+        "android_client_info": {
+          "package_name": "com.example.wonderfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664463569269-m9efpimp7ii4h9a9in3lip5d2pk85ig2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wonderfinder",
+            "certificate_hash": "d64704d0ea0463e424eaf6f4423e057495495150"
+          }
+        },
+        {
+          "client_id": "664463569269-bdbuqqdici05m8hklquj99eq4nglfsd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtafi4v2oLBGZ__oL9cSoeOjuVRf2mQu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664463569269-bdbuqqdici05m8hklquj99eq4nglfsd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
